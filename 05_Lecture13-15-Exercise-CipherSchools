@@ -10,3 +10,4 @@ print("he is\tawesome”)
 #\"="
 #\\ =\
 #\\\" = \"
+print(r"line A \n line B) #by writing r before " \n or \" will be treated as normal text
